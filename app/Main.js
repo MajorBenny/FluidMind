@@ -14,7 +14,7 @@ function Main() {
     <BrowserRouter>
       <Navigation />
       <Switch>
-        <Route path="/Homepage" exact>
+        <Route path="/" exact>
           <Homepage />
         </Route>
         <Route path="/ProjectPage" exact>

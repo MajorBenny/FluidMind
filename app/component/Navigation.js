@@ -5,7 +5,7 @@ function Navigation() {
   return (
     <nav>
       <div className="logo">
-        <Link to="/Homepage">
+        <Link to="/">
           <img src="resource/assets/fmLogo2.png" className="fmLogo" />
         </Link>
       </div>
