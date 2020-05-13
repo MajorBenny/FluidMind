@@ -6,9 +6,7 @@
   "scripts": {
     "dev": "webpack-dev-server",
     "webpackBuild": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "predeploy": "npm run dev",
-    "deploy": "gh-pages -d dev"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
@@ -32,6 +30,5 @@
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
-  },
-  "homepage": "http://majorbenny.github.io/FluidMind/"
+  }
 }

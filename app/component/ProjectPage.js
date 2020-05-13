@@ -102,9 +102,9 @@ function ProjectPage() {
           <h2>Fluid Mind Concept Film</h2>
         </div>
         <div className="video-box">
-          <video width="1080" height="auto" controls>
+          {/* <video width="1080" height="auto" controls>
             <source src="../resource/assets/FluidMind_finalproject.mp4" />
-          </video>
+          </video> */}
           <img className="video-scenes" src="../resource/assets/video-scenes.png" />
         </div>
       </section>
